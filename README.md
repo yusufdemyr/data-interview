@@ -1,4 +1,21 @@
 # Papcorns Data Scientist Technical Assessment
+‼️
+All task solutions are in the <b>solutions.ipynb</b> file. If you encounter any library errors, you can install the required dependencies using the following command:
+```bash
+pip install -r requirements-yusuf.txt
+```
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<!-- COPY FROM ORIGINAL README FILE -->
 
 Welcome to Papcorns' Data Scientist technical assessment! This task is designed to evaluate your skills in data analysis, SQL, Python, and machine learning.
 
